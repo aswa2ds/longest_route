@@ -1,1 +1,3 @@
-﻿
+﻿  main.cpp
+d:\em\project\longest_route\longest_route\main.cpp(79): warning C4018: “<”: 有符号/无符号不匹配
+  longest_route.vcxproj -> D:\em\project\longest_route\Debug\longest_route.exe
